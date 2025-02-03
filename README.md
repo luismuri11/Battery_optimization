@@ -3,7 +3,7 @@ In this example, we will explore how to apply an Artificial Neural Network (ANN)
 
 Our objective is to maximize the areal capacity of the battery during fast charging, specifically at 4C rate. To achieve this, we will optimize the porosity of the anode and cathode. We conducted 200 experimental trials to establish the relationship between areal capacity and the porosity of these components.
 
-![Battery optimization](./assets/BatteryCharging)
+![Battery optimization](/assets/BatteryCharging)
 
 Areal capacity: Amount of charge a battery can store per unit area of the electrode material, often expressed in mAh/cm².
 
